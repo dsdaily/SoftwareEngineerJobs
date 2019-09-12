@@ -1,5 +1,5 @@
 # Software Engineer Jobs (with referral)
-A compiled list of job referral links
+A compiled list of job referral links updated weekly
 
 Company | Location | careers website | new grad | internship | Referral insturctions 
 ------------ | ------------- | ------------- | ------------- | ------------- | -------------
